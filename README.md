@@ -1,4 +1,4 @@
 # Primerio Site (Básico)
- Site focado em joias de 18k
+ Site focado em proposta de revenda 
 
  Primeiro Site criado aqui !
