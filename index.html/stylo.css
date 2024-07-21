@@ -1,0 +1,65 @@
+.form{
+    
+    padding-top:10px;
+    box-shadow: 35px 30px 29px;
+   border-radius: 15px;
+   width: 5px;
+  background-image: linear-gradient(40deg,#6c0d70,rgb(145, 51, 84));
+    
+}
+
+.sah{
+   width: 310px;
+    padding:20px;
+}
+
+.top1{
+    width: 29px;
+    background-color:rgb(242, 148, 244);
+}
+
+.top2{
+    width: 29px;
+    background-color:rgb(242, 148, 244);
+}
+
+.top3{
+    width: 29px;
+    background-color:rgb(242, 148, 244);
+}
+
+.top4{
+    width: 29px;
+    background-color:rgb(242, 148, 244);
+}
+
+.topa12{
+    background-color:rgb(242, 148, 244);
+    width: 96px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.two{
+    background: url("foto.fundo.jpg");
+    box-shadow: 40px 35px 30px;
+    border-radius: 45px;
+
+}
+
+.six{
+    text-align: center;
+    color: rgb(59, 56, 52);
+}
+
+.raio2{
+    width: 300px;
+    box-shadow: 0px 0px 39px;
+    border-radius: 15px;
+    background-color:rgb(151, 145, 149);
+}
+
+.raio{
+    background-color:rgb(184, 176, 181);
+    border-radius: 15px;
+}
